@@ -29,8 +29,6 @@ coverage
 # dotenv environment variables file
 .env
 
-# Firebase Admin SDK credentials
-service-account.json
 
 # IDE-specific files
 .vscode/
