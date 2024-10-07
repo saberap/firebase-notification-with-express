@@ -20,7 +20,7 @@ This project is a simple notification service built with Express and Firebase Ad
 
 3. Add your Firebase service account key:
     - Place your `service-account.json` file in the root directory.
-## How To Create 
+
 # How to Create `service-account.json` File in Firebase
 
 Follow these steps to create a `service-account.json` file for your Firebase project:
