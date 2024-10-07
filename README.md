@@ -1,4 +1,4 @@
-# firebase-notification-with-express
+# Firebase Cloud Messaging with Express: Easy Notification Setup
 A Node.js project using Express to create an API endpoint for sending Firebase Cloud Messaging notifications.
 
 # Notification Service
